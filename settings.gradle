@@ -1,2 +1,3 @@
+include ':showimage-adapter'
 rootProject.name='Gcam Services Provider'
 include ':app'
