@@ -1,2 +1,2 @@
-rootProject.name='Gcam Services Provider'
+rootProject.name='Google App Stub'
 include ':app'
